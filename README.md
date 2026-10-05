@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
     <head>
         <title>Kira Ivarsdottir Resume</title>
@@ -45,7 +46,7 @@
         <h5>August 2023 - June 2024</h5>
         <p>Leading and managing 27 staff members in regards to meeting deadlines, maintaining laws and ethics, interviewing potential staff members, and worked with Adobe Photoshop & Adobe InDesign</p>
 
-        </h3>Copy Editor at The Diamondback</h3>
+        <h3>Copy Editor at The Diamondback</h3>
         <h4>University of Maryland, MD</h4>
         <h5>August 2024 - December 2025</h5>
         <p>Editing stories of multiple subjects on Diamondback style and AP style, checking for grammatical and cohesiveness errors, fact checking all statistics and facts mentioned, thoroughly editing multiple stories each shift, and attending general body meetings</p>
