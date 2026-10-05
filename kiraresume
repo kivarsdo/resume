@@ -1,6 +1,8 @@
 <!DOCTYPE html>
+
 <html lang="en">
     <head>
+
         <title>Kira Ivarsdottir Resume</title>
         h1 {
             color: #33485e;
@@ -10,9 +12,11 @@
             font-size: 36px;
         }
     </head>
+
 <body>
-    <I built this myself!->
+    
         <h1>Kira Ivarsdottir</h1>
+
         <img src="kirares.png" width"300px">
         
         <strong>Journalism Student at the Philip Merrill College of Journalism at UMD</strong>
