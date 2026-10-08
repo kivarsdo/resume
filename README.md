@@ -2,17 +2,44 @@
 
 <html lang="en">
     <head>
+
         <title>Kira Ivarsdottir Resume</title>
-        h1 {
+        h1 id="name" {
             color: #33485e;
+
+            <div style="border-bottom: 1px solid #33485e;"> </div>
+             <div style="width: 60%; min-width: 300px;" ></div>
+             <div margin: 0px auto; ></div>
+        }
+        h2 class="section-header" {
+            <div margin: 20px 0 10px 0; ></div>
+            <div style=width:70%; min-width: 300px; ></div>
         }
         p {
             color: blue;
             font-size: 36px;
         }
+        h3 
+        <p class="jobtitle"></p> {
+
+        }
+        {h4
+            <p class="menu"></p>
+        margin: 0px;
+  padding: 0px;
+  text-align: center;
+  display: inline;
+    }
+  { 
+ <p id="degrees"></p>
+    margin: 5px 0 0 0; 
+  } 
+  {
+    <p id="do"></p>
+    margin: 5px 0 0 0;
+  }
     </head>
 <body>
-    <I built this myself!->
         <h1>Kira Ivarsdottir</h1>
         <img src="kirares.png" width"300px">
         
